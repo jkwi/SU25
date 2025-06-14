@@ -1,0 +1,291 @@
+﻿Year,Player,GradStatus,School,Conference,Team,Round,PickNumber,Height,Weight,FortyYdSpr,JmpVert,BPress,BrJump,ThreeCone,RunShut,BMI,Player_Type,Position_Type,Position,Drafted,filter_$
+2009,Will Davis\DaviWi99,    2.00,Illinois,NFC,ArizonaCardinals,Late,204,1.8796,118.3876086,4.84,83.82,27,292.1,7.38,4.45,33.5100731,defense,defensive_lineman,DE,Yes,1
+2009,Rashad Johnson\JohnRa98,    2.00,Alabama,NFC,ArizonaCardinals,Middle,95,1.8034,92.07925111,4.49,93.98,15,304.8,7.09,4.23,28.31246274,defense,defensive_back,FS,Yes,1
+2009,Cody Brown\BrowCo96,    2.00,Connecticut,NFC,ArizonaCardinals,Early,63,1.8796,110.6765383,4.76,92.71,26,304.8,7.1,4.4,31.32742466,defense,line_backer,OLB,Yes,1
+2009,Garrett Reynolds\ReynGa20,    1.00,North Carolina,NFC,AtlantaFalcons,Middle,156,2.032,140.1600423,5.32,55.88,19,238.76,7.87,4.88,33.94507814,offense,offensive_lineman,OT,Yes,1
+2009,Lawrence Sidbury\SidbLa99,    2.00,Richmond,NFC,AtlantaFalcons,Middle,125,1.8796,120.6555704,4.53,88.9,28,304.8,7.46,4.43,34.15202852,defense,defensive_lineman,DE,Yes,1
+2009,Chris Owens\OwenCh99,    2.00,San Jose St.,NFC,AtlantaFalcons,Middle,90,1.778,82.10021897,4.44,87.63,14,279.4,6.93,4.16,25.97052937,defense,defensive_back,CB,Yes,1
+2009,William Moore\MoorWi99,    2.00,Missouri,NFC,AtlantaFalcons,Early,55,1.8288,100.2439138,4.49,93.98,16,312.42,6.81,4.26,29.97268077,defense,defensive_back,SS,Yes,1
+2009,Michael Oher\OherMi20,    2.00,Mississippi,AFC,BaltimoreRavens,Early,23,1.9304,140.1600423,5.16,77.47,21,261.62,7.81,4.6,37.61227495,offense,offensive_lineman,OT,Yes,1
+2009,Davon Drew\DrewDa00,    2.00,East Carolina,AFC,BaltimoreRavens,Middle,149,1.9304,116.1196467,4.78,74.93,17,287.02,7.28,4.56,31.1609786,offense,backs_receivers,TE,Yes,1
+2009,Lardarius Webb\WebbLa99,    2.00,Nicholls St.,AFC,BaltimoreRavens,Middle,88,1.778,81.19303423,4.35,92.71,15,307.34,6.77,4.1,25.6835622,defense,defensive_back,CB,Yes,1
+2009,Paul Kruger\KrugPa99,    2.00,Utah,AFC,BaltimoreRavens,Early,57,1.9304,119.2947933,4.79,82.55,24,274.32,7.52,4.47,32.01303661,defense,defensive_lineman,DE,Yes,1
+2009,Cedric Peerman\PeerCe00,    2.00,Virginia,AFC,BaltimoreRavens,Late,185,1.7526,97.97595192,4.34,101.6,27,297.18,6.99,4.29,31.89729662,offense,backs_receivers,RB,Yes,1
+2009,Aaron Maybin\MaybAa99,    1.00,Penn St.,AFC,BuffaloBills,Early,11,1.9304,112.9445001,4.64,96.52,22,314.96,7.52,4.38,30.30892059,defense,defensive_lineman,DE,Yes,1
+2009,Shawn Nelson\NelsSh00,    2.00,Southern Miss,AFC,BuffaloBills,Middle,121,1.9558,108.8621688,4.52,83.82,19,292.1,6.96,4.46,28.45955458,offense,backs_receivers,TE,Yes,1
+2009,Eric Wood\WoodEr20,    2.00,Louisville,AFC,BuffaloBills,Early,28,1.9304,140.6136347,5.19,77.47,30,251.46,7.56,4.51,37.73399752,offense,offensive_lineman,C,Yes,1
+2009,Nic Harris\HarrNi99,    2.00,Oklahoma,AFC,BuffaloBills,Middle,147,1.8796,106.1406146,4.83,80.01,15,276.86,7.05,4.37,30.04351381,defense,line_backer,OLB,Yes,1
+2009,Everette Brown\BrowEv99,    1.00,Florida St.,NFC,CarolinaPanthers,Early,43,1.8542,116.1196467,4.65,80.01,26,289.56,7.55,4.53,33.77478183,defense,defensive_lineman,DE,Yes,1
+2009,Tony Fiammetta\FiamTo00,    2.00,Syracuse,NFC,CarolinaPanthers,Middle,128,1.8288,111.1301307,4.58,86.36,30,284.48,7.31,4.49,33.22763253,offense,backs_receivers,FB,Yes,1
+2009,Mike Goodson\GoodMi00,    1.00,Texas A&M,NFC,CarolinaPanthers,Middle,111,1.8288,94.34721296,4.43,100.33,14,299.72,6.89,4.22,28.2095819,offense,backs_receivers,RB,Yes,1
+2009,Corvey Irvin\IrviCo99,    2.00,Georgia,NFC,CarolinaPanthers,Middle,93,1.905,136.5313034,4.96,62.23,24,246.38,7.44,4.73,37.6220344,defense,defensive_lineman,DT,Yes,1
+2009,Captain Munnerlyn\MunnCa99,    1.00,South Carolina,NFC,CarolinaPanthers,Late,216,1.7272,82.55381134,4.41,95.25,19,307.34,7.15,4.2,27.67272134,defense,defensive_back,CB,Yes,1
+2009,Sherrod Martin\MartSh99,    2.00,Troy,NFC,CarolinaPanthers,Early,59,1.8542,89.81128926,4.43,91.44,12,312.42,6.6,3.98,26.12268282,defense,defensive_back,CB,Yes,1
+2009,Jarron Gilbert\GilbJa99,    2.00,San Jose St.,NFC,ChicagoBears,Middle,68,1.9558,130.6346026,4.81,90.17,28,302.26,7.7,4.56,34.1514655,defense,defensive_lineman,DE,Yes,1
+2009,D.J. Moore\MoorDJ99,    1.00,Vanderbilt,NFC,ChicagoBears,Middle,119,1.7526,87.08973504,4.56,100.33,17,299.72,7.01,4.28,28.35315255,defense,defensive_back,CB,Yes,1
+2009,Jonathan Luigs\LuigJo20,    2.00,Arkansas,AFC,CincinnatiBengals,Middle,106,1.9304,136.5313034,5.14,78.74,26,251.46,7.69,4.79,36.63849437,offense,offensive_lineman,C,Yes,1
+2009,Bernard Scott\ScotBe00,    2.00,Abilene Christian,AFC,CincinnatiBengals,Late,209,1.778,90.718474,4.44,91.44,21,317.5,6.82,4.08,28.69671754,offense,backs_receivers,RB,Yes,1
+2009,Michael Johnson\JohnMi98,    2.00,Georgia Tech,AFC,CincinnatiBengals,Middle,70,2.0066,120.6555704,4.61,97.79,28,325.12,7.42,4.37,29.96579205,defense,defensive_lineman,DE,Yes,1
+2009,Morgan Trent\TrenMo99,    2.00,Michigan,AFC,CincinnatiBengals,Late,179,1.8542,87.54332741,4.5,96.52,23,322.58,7.05,4.01,25.46301912,defense,defensive_back,CB,Yes,1
+2009,David Veikune\VeikDa99,    2.00,Hawaii,AFC,ClevelandBrowns,Early,52,1.8796,116.5732391,4.75,83.82,35,279.4,7.2,4.46,32.99650876,defense,defensive_lineman,DE,Yes,1
+2009,James Davis\DaviJa03,    2.00,Clemson,AFC,ClevelandBrowns,Late,195,1.8034,98.88313666,4.45,81.28,17,276.86,7.15,4.37,30.40451664,offense,backs_receivers,RB,Yes,1
+2009,Coye Francies\FranCo99,    2.00,San Jose St.,AFC,ClevelandBrowns,Late,191,1.8288,83.91458845,4.63,91.44,24,312.42,6.81,4.24,25.09025313,defense,defensive_back,CB,Yes,1
+2009,Robert Brewster\BrewRo20,    2.00,Ball St.,NFC,DallasCowboys,Middle,75,1.9304,147.4175203,5.29,77.47,23,248.92,7.68,4.75,39.55983611,offense,offensive_lineman,OT,Yes,1
+2009,DeAngelo Smith\SmitDe98,    2.00,Cincinnati,NFC,DallasCowboys,Middle,143,1.8034,87.99691978,4.5,80.01,17,276.86,7.27,4.35,27.0572304,defense,defensive_back,CB,Yes,1
+2009,John Phillips\PhilJo00,    1.00,Virginia,NFC,DallasCowboys,Late,208,1.9558,113.8516849,4.78,85.09,20,284.48,6.84,4.27,29.76395083,offense,backs_receivers,TE,Yes,1
+2009,Stephen Hodge\HodgSt99,    1.00,TCU,NFC,DallasCowboys,Late,197,1.8288,106.1406146,4.59,88.9,22,292.1,7.21,4.34,31.73577964,defense,line_backer,OLB,Yes,1
+2009,Victor Butler\ButlVi99,    1.00,Oregon St.,NFC,DallasCowboys,Middle,110,1.8796,112.4909078,4.72,83.82,24,287.02,7.21,4.4,31.840989,defense,line_backer,OLB,Yes,1
+2009,Michael Hamlin\HamlMi99,    2.00,Clemson,NFC,DallasCowboys,Middle,166,1.8796,97.06876718,4.57,95.25,17,297.18,7.14,4.42,27.47569212,defense,defensive_back,SS,Yes,1
+2009,Knowshon Moreno\MoreKn00,    1.00,Georgia,AFC,DenverBroncos,Early,12,1.8034,98.42954429,4.5,90.17,25,292.1,6.84,4.27,30.26504638,offense,backs_receivers,RB,Yes,1
+2009,Richard Quinn\QuinRi00,    2.00,North Carolina,AFC,DenverBroncos,Early,64,1.9304,119.7483857,4.88,82.55,24,302.26,7.5,4.62,32.13475918,offense,backs_receivers,TE,Yes,1
+2009,Darcel McBath\McBaDa99,    2.00,Texas Tech,AFC,DenverBroncos,Early,48,1.8288,89.81128926,4.53,96.52,14,302.26,6.8,4.16,26.853352,defense,defensive_back,FS,Yes,1
+2009,Alphonso Smith\SmitAl98,    2.00,Wake Forest,AFC,DenverBroncos,Early,37,1.7526,87.54332741,4.47,86.36,13,317.5,7.09,4.38,28.50082522,defense,defensive_back,CB,Yes,1
+2009,Seth Olsen\OlseSe20,    2.00,Iowa,AFC,DenverBroncos,Middle,132,1.9558,138.7992652,5.23,62.23,23,228.6,7.59,4.7,36.28593209,offense,offensive_lineman,OG,Yes,1
+2009,Robert Ayers\AyerRo99,    2.00,Tennessee,AFC,DenverBroncos,Early,18,1.905,123.3771246,4.77,74.93,18,259.08,7.56,4.51,33.99732012,defense,defensive_lineman,DE,Yes,1
+2009,David Bruton\BrutDa99,    1.00,Notre Dame,AFC,DenverBroncos,Middle,114,1.8796,99.33672903,4.4,105.41,19,335.28,6.6,4.28,28.11764754,defense,defensive_back,FS,Yes,1
+2009,Dan Gronkowski\GronDa00,    2.00,Maryland,NFC,DetroitLions,Late,255,1.9558,115.6660544,4.79,83.82,26,309.88,6.92,4.26,30.23827674,offense,backs_receivers,TE,Yes,1
+2009,Louis Delmas\DelmLo99,    1.00,West. Michigan,NFC,DetroitLions,Early,33,1.8034,91.62565874,4.52,93.98,12,320.04,6.67,4.17,28.17299248,defense,defensive_back,FS,Yes,1
+2009,Brandon Pettigrew\PettBr00,    2.00,Oklahoma St.,NFC,DetroitLions,Early,20,1.9558,119.2947933,4.8,83.82,22,299.72,7.12,4.37,31.18692856,offense,backs_receivers,TE,Yes,1
+2009,Lydon Murtha\MurtLy20,    2.00,Nebraska,NFC,DetroitLions,Late,228,2.0066,138.7992652,4.82,88.9,25,279.4,7.06,4.34,34.47192619,offense,offensive_lineman,OT,Yes,1
+2009,Jarius Wynn\WynnJa99,    2.00,Georgia,NFC,GreenBayPackers,Late,182,1.905,124.7379018,4.94,80.01,19,271.78,7.4,4.58,34.37229056,defense,defensive_lineman,DE,Yes,1
+2009,Brandon Underwood\UndeBr99,    2.00,Cincinnati,NFC,GreenBayPackers,Late,187,1.8542,89.81128926,4.48,92.71,16,317.5,7,4.2,26.12268282,defense,defensive_back,FS,Yes,1
+2009,B.J. Raji\RajiBJ99,    2.00,Boston Col.,NFC,GreenBayPackers,Early,9,1.8542,152.8606287,5.12,81.28,33,261.62,7.9,4.69,44.4613339,defense,defensive_lineman,DT,Yes,1
+2009,Jamon Meredith\MereJa20,    2.00,South Carolina,NFC,GreenBayPackers,Middle,162,1.9558,137.8920805,4.99,71.12,31,266.7,8.01,4.82,36.04876914,offense,offensive_lineman,OT,Yes,1
+2009,Clay Matthews\MattCl99,    2.00,USC,NFC,GreenBayPackers,Early,26,1.905,108.8621688,4.58,90.17,23,307.34,6.9,4.18,29.9976354,defense,line_backer,OLB,Yes,1
+2009,Brian Cushing\CushBr99,    2.00,USC,AFC,HoustonTexans,Early,15,1.905,110.2229459,4.64,88.9,30,304.8,6.84,4.22,30.37260584,defense,line_backer,OLB,Yes,1
+2009,Anthony Hill\HillAn00,    2.00,North Carolina St.,AFC,HoustonTexans,Middle,122,1.9558,118.8412009,4.84,77.47,21,271.78,7.31,4.56,31.06834709,offense,backs_receivers,TE,Yes,1
+2009,Glover Quin\QuinGl99,    2.00,New Mexico,AFC,HoustonTexans,Middle,112,1.8034,92.53284348,4.5,96.52,22,302.26,7.39,4.43,28.451933,defense,defensive_back,FS,Yes,1
+2009,Antoine Caldwell\CaldAn20,    2.00,Alabama,AFC,HoustonTexans,Middle,77,1.905,140.1600423,5.24,71.12,23,281.94,7.96,5.04,38.62195558,offense,offensive_lineman,C,Yes,1
+2009,Troy Nolan\NolaTr99,    2.00,Arizona St.,AFC,HoustonTexans,Late,223,1.8288,93.44002822,4.58,80.01,12,297.18,7.06,4.3,27.93833592,defense,defensive_back,FS,Yes,1
+2009,Connor Barwin\BarwCo99,    2.00,Cincinnati,AFC,HoustonTexans,Early,46,1.9304,116.1196467,4.47,102.87,21,325.12,6.87,4.18,31.1609786,defense,line_backer,OLB,Yes,1
+2009,James Casey\CaseJa00,    2.00,Rice,AFC,HoustonTexans,Middle,152,1.905,111.583723,4.69,91.44,28,281.94,7,4.48,30.74757628,offense,backs_receivers,FB,Yes,1
+2009,Austin Collie\CollAu00,    2.00,BYU,AFC,IndianapolisColts,Middle,127,1.8542,90.718474,4.53,86.36,17,304.8,6.78,4.24,26.38654831,offense,backs_receivers,WR,Yes,1
+2009,Jerraud Powers\PoweJe99,    1.00,Auburn,AFC,IndianapolisColts,Middle,92,1.7526,85.27536556,4.43,92.71,15,309.88,7.09,4.08,27.76246187,defense,defensive_back,CB,Yes,1
+2009,Eugene Monroe\MonrEu20,    1.00,Virginia,AFC,JacksonvilleJaguars,Early,8,1.9558,140.1600423,5.18,72.39,23,279.4,7.86,4.78,36.64167652,offense,offensive_lineman,OT,Yes,1
+2009,Jarett Dillard\DillJa00,    2.00,Rice,AFC,JacksonvilleJaguars,Middle,144,1.778,86.63614267,4.5,107.95,13,327.66,7.1,4.41,27.40536525,offense,backs_receivers,WR,Yes,1
+2009,Tiquan Underwood\UndeTi00,    2.00,Rutgers,AFC,JacksonvilleJaguars,Late,253,1.8542,83.46099608,4.31,105.41,7,327.66,6.62,4.11,24.27562444,offense,backs_receivers,WR,Yes,1
+2009,Eben Britton\BritEb20,    1.00,Arizona,AFC,JacksonvilleJaguars,Early,39,1.9812,140.1600423,5.14,72.39,24,254,7.87,4.91,35.70816899,offense,offensive_lineman,OT,Yes,1
+2009,Rashad Jennings\JennRa00,    2.00,Liberty,AFC,JacksonvilleJaguars,Late,250,1.8542,104.7798375,4.52,86.36,29,304.8,6.86,4.2,30.4764633,offense,backs_receivers,RB,Yes,1
+2009,Donald Washington\WashDo98,    2.00,Ohio St.,AFC,KansasCityChiefs,Middle,102,1.8288,89.35769689,4.5,114.3,9,342.9,6.84,4.2,26.71772901,defense,defensive_back,CB,Yes,1
+2009,Alex Magee\MageAl99,    1.00,Purdue,AFC,KansasCityChiefs,Middle,67,1.905,135.1705263,4.82,74.93,30,261.62,7.52,4.55,37.24706395,defense,defensive_lineman,DT,Yes,1
+2009,Larry English\EnglLa99,    2.00,Northern Illinois,AFC,SanDiegoChargers,Early,16,1.8796,115.6660544,4.74,91.44,24,271.78,7.26,4.38,32.73972659,defense,line_backer,OLB,Yes,1
+2009,Brandon Hughes\HughBr99,    2.00,Oregon St.,AFC,SanDiegoChargers,Middle,148,1.778,82.55381134,4.4,92.71,8,325.12,6.9,4.23,26.11401296,defense,defensive_back,CB,Yes,1
+2009,Jason Smith\SmitJa22,    2.00,Baylor,NFC,St.LouisRams,Early,2,1.9558,140.1600423,5.09,60.96,33,243.84,7.53,4.69,36.64167652,offense,offensive_lineman,OT,Yes,1
+2009,Darell Scott\ScotDo99,    2.00,Clemson,NFC,St.LouisRams,Middle,103,1.905,141.5208194,4.92,77.47,29,271.78,8.28,4.84,38.99692602,defense,defensive_lineman,DT,Yes,1
+2009,Chris Ogbonnaya\OgboCh00,    2.00,Texas,NFC,St.LouisRams,Late,211,1.8288,99.7903214,4.57,88.9,19,281.94,6.85,4.29,29.83705778,offense,backs_receivers,RB,Yes,1
+2009,James Laurinaitis\LaurJa99,    2.00,Ohio St.,NFC,St.LouisRams,Early,35,1.8796,110.6765383,4.72,83.82,22,292.1,6.93,4.24,31.32742466,defense,line_backer,ILB,Yes,1
+2009,Bradley Fletcher\FletBr99,    2.00,Iowa,NFC,St.LouisRams,Middle,66,1.8288,88.90410452,4.44,97.79,20,309.88,7.04,4.29,26.58210602,defense,defensive_back,CB,Yes,1
+2009,Vontae Davis\DaviVo99,    1.00,Illinois,AFC,MiamiDolphins,Early,25,1.8034,92.07925111,4.4,91.44,25,317.5,6.75,4.07,28.31246274,defense,defensive_back,CB,Yes,1
+2009,Sean Smith\SmitSe99,    1.00,Utah,AFC,MiamiDolphins,Early,61,1.905,97.06876718,4.47,86.36,10,302.26,6.92,4.15,26.74789156,defense,defensive_back,CB,Yes,1
+2009,Chris Clemons\ClemCh97,    2.00,Clemson,AFC,MiamiDolphins,Middle,165,1.8288,94.34721296,4.33,95.25,19,322.58,7.27,4.38,28.2095819,defense,defensive_back,FS,Yes,1
+2009,Jamarca Sanford\SanfJa99,    2.00,Mississippi,NFC,MinnesotaVikings,Late,231,1.778,97.06876718,4.43,85.09,29,294.64,7.02,4.2,30.70548776,defense,defensive_back,SS,Yes,1
+2009,Jasper Brinkley\BrinJa99,    2.00,South Carolina,NFC,MinnesotaVikings,Middle,150,1.8796,114.3052772,4.67,90.17,26,289.56,7.03,4.32,32.35455334,defense,line_backer,ILB,Yes,1
+2009,Asher Allen\AlleAs99,    1.00,Georgia,NFC,MinnesotaVikings,Middle,86,1.7526,87.99691978,4.48,88.9,22,292.1,6.93,4.3,28.64849789,defense,defensive_back,CB,Yes,1
+2009,Phil Loadholt\LoadPh20,    2.00,Oklahoma,NFC,MinnesotaVikings,Early,54,2.032,150.5926668,5.45,73.66,24,241.3,8.18,5.06,36.47173444,offense,offensive_lineman,OT,Yes,1
+2009,Ron Brace\BracRo99,    2.00,Boston Col.,AFC,NewEnglandPatriots,Early,40,1.905,149.6854821,5.48,71.12,32,251.46,8.15,4.73,41.24674867,defense,defensive_lineman,DT,Yes,1
+2009,Malcolm Jenkins\JenkMa99,    1.00,Ohio St.,NFC,NewOrleansSaints,Early,14,1.8288,92.53284348,4.51,83.82,15,314.96,6.59,4.08,27.66708994,defense,defensive_back,CB,Yes,1
+2009,Stanley Arnoux\ArnoSt99,    2.00,Wake Forest,NFC,NewOrleansSaints,Middle,118,1.8288,105.2334298,4.56,80.01,19,307.34,7.22,4.39,31.46453366,defense,line_backer,ILB,Yes,1
+2009,Chip Vaughn\VaugCh99,    2.00,Wake Forest,NFC,NewOrleansSaints,Middle,116,1.8542,100.2439138,4.42,93.98,21,317.5,7.03,4.12,29.15713588,defense,defensive_back,SS,Yes,1
+2009,DeAndre Wright\WrigDe99,    2.00,New Mexico,NFC,NewYorkGiants,Late,200,1.8034,89.81128926,4.52,87.63,17,309.88,7,4.44,27.61511144,defense,defensive_back,CB,Yes,1
+2009,Will Beatty\BeatWi20,    2.00,Connecticut,NFC,NewYorkGiants,Early,60,1.9812,139.2528576,5.06,85.09,27,271.78,7.62,4.77,35.47704815,offense,offensive_lineman,OT,Yes,1
+2009,Andre Brown\BrowAn03,    2.00,North Carolina St.,NFC,NewYorkGiants,Middle,129,1.8288,101.6046909,4.37,93.98,24,292.1,7.35,4.33,30.37954974,offense,backs_receivers,RB,Yes,1
+2009,Shonn Greene\GreeSh00,    2.00,Iowa,AFC,NewYorkJets,Middle,65,1.778,102.965468,4.55,93.98,19,307.34,7.1,4.4,32.5707744,offense,backs_receivers,RB,Yes,1
+2009,Darrius Heyward-Bey\HeywDa00,    2.00,Maryland,AFC,OaklandRaiders,Early,7,1.8796,95.2543977,4.3,97.79,16,320.04,6.8,4.18,26.96212778,offense,backs_receivers,WR,Yes,1
+2009,Matt Shaughnessy\ShauMa99,    2.00,Wisconsin,AFC,OaklandRaiders,Middle,71,1.9558,120.6555704,4.86,77.47,24,284.48,7.68,4.88,31.542673,defense,defensive_lineman,DE,Yes,1
+2009,Fenuki Tupou\TupoFe20,    2.00,Oregon,NFC,PhiladelphiaEagles,Middle,159,1.9558,142.4280042,5.2,64.77,24,238.76,8.33,5.02,37.23458391,offense,offensive_lineman,OT,Yes,1
+2009,Moise Fokou\FokoMo99,    2.00,Maryland,NFC,PhiladelphiaEagles,Late,230,1.8542,105.6870222,4.65,78.74,12,307.34,7.09,4.28,30.74032878,defense,line_backer,OLB,Yes,1
+2009,Ziggy Hood\HoodEv99,    2.00,Missouri,AFC,PittsburghSteelers,Early,32,1.905,136.077711,4.83,83.82,34,274.32,7.5,4.55,37.49704425,defense,defensive_lineman,DT,Yes,1
+2009,Joe Burnett\BurnJo99,    2.00,Central Florida,AFC,PittsburghSteelers,Middle,168,1.7526,87.08973504,4.58,90.17,22,299.72,6.68,4.25,28.35315255,defense,defensive_back,CB,Yes,1
+2009,Mike Wallace\WallMi00,    2.00,Mississippi,AFC,PittsburghSteelers,Middle,84,1.8288,90.26488163,4.33,101.6,14,327.66,6.9,4.27,26.98897499,offense,backs_receivers,WR,Yes,1
+2009,David Johnson\JohnDa05,    1.00,Arkansas St.,AFC,PittsburghSteelers,Late,241,1.8542,117.9340162,4.73,82.55,21,287.02,7.28,4.43,34.3025128,offense,backs_receivers,FB,Yes,1
+2009,Kraig Urbik\UrbiKr20,    2.00,Wisconsin,AFC,PittsburghSteelers,Middle,79,1.9558,148.7782974,5.25,60.96,29,238.76,7.87,4.89,38.8947246,offense,offensive_lineman,OG,Yes,1
+2009,A.Q. Shipley\ShipA.20,    2.00,Penn St.,AFC,PittsburghSteelers,Late,226,1.8542,137.8920805,5.19,78.74,33,254,7.46,4.4,40.10755343,offense,offensive_lineman,C,Yes,1
+2009,Scott McKillop\McKiSc99,    2.00,Pittsburgh,NFC,SanFrancisco49ers,Middle,146,1.8542,110.6765383,4.7,90.17,27,302.26,7,4.39,32.19158894,defense,line_backer,ILB,Yes,1
+2009,Glen Coffee\CoffGl00,    1.00,Alabama,NFC,SanFrancisco49ers,Middle,74,1.8288,94.80080533,4.5,91.44,24,307.34,7.35,4.51,28.34520489,offense,backs_receivers,RB,Yes,1
+2009,Curtis Taylor\TaylCu99,    2.00,LSU,NFC,SanFrancisco49ers,Late,219,1.8796,94.80080533,4.49,95.25,13,327.66,7.25,4.23,26.8337367,defense,defensive_back,FS,Yes,1
+2009,Aaron Curry\CurrAa99,    2.00,Wake Forest,NFC,SeattleSeahawks,Early,4,1.8796,115.212462,4.52,93.98,25,314.96,7.15,4.51,32.61133551,defense,line_backer,OLB,Yes,1
+2009,Cameron Morrah\MorrCa00,    1.00,California,NFC,SeattleSeahawks,Late,248,1.905,110.6765383,4.61,82.55,24,292.1,6.99,4.36,30.49759599,offense,backs_receivers,TE,Yes,1
+2009,Courtney Greene\GreeCo99,    2.00,Rutgers,NFC,SeattleSeahawks,Late,245,1.8288,96.16158244,4.55,87.63,21,294.64,7.35,4.16,28.75207386,defense,defensive_back,SS,Yes,1
+2009,Deon Butler\ButlDe00,    2.00,Penn St.,NFC,SeattleSeahawks,Middle,91,1.778,82.55381134,4.31,87.63,12,299.72,7.01,4.48,26.11401296,offense,backs_receivers,WR,Yes,1
+2009,Max Unger\UngeMa20,    2.00,Oregon,NFC,SeattleSeahawks,Early,49,1.9558,140.1600423,5.26,62.23,22,236.22,7.39,4.5,36.64167652,offense,offensive_lineman,C,Yes,1
+2009,Sammie Stroughter\StroSa00,    2.00,Oregon St.,NFC,TampaBayBuccaneers,Late,233,1.7526,85.72895793,4.45,76.2,13,279.4,7.03,4.28,27.91013454,offense,backs_receivers,WR,Yes,1
+2009,Xavier Fulton\FultXa20,    2.00,Illinois,NFC,TampaBayBuccaneers,Middle,155,1.9304,136.9848957,5.01,78.74,27,281.94,7.35,4.56,36.76021694,offense,offensive_lineman,OT,Yes,1
+2009,Kyle Moore\MoorKy99,    2.00,USC,NFC,TampaBayBuccaneers,Middle,117,1.9558,123.3771246,4.76,77.47,22,266.7,7.4,4.47,32.25416186,defense,defensive_lineman,DE,Yes,1
+2009,Roy Miller\MillRo99,    1.00,Texas,NFC,TampaBayBuccaneers,Middle,81,1.8542,140.6136347,4.93,81.28,36,261.62,8.01,4.74,40.89914988,defense,defensive_lineman,DT,Yes,1
+2009,Gerald McRath\McRaGe99,    2.00,Southern Miss,AFC,TennesseeTitans,Middle,130,1.8796,104.7798375,4.49,86.36,19,312.42,7.24,4.35,29.65834056,defense,line_backer,ILB,Yes,1
+2009,Javon Ringer\RingJa00,    2.00,Michigan St.,AFC,TennesseeTitans,Middle,173,1.7526,92.98643585,4.5,86.36,23,292.1,6.87,4.11,30.27289725,offense,backs_receivers,RB,Yes,1
+2009,Troy Kropog\KropTr20,    2.00,Tulane,AFC,TennesseeTitans,Middle,135,1.9558,140.1600423,5.3,76.2,21,254,7.65,4.84,36.64167652,offense,offensive_lineman,OT,Yes,1
+2009,Marko Mitchell\MitcMa00,    2.00,Nevada,NFC,WashingtonRedskins,Late,243,1.9304,98.88313666,4.43,81.28,9,294.64,7.04,4.33,26.53552084,offense,backs_receivers,WR,Yes,1
+2014,Troy Niklas\NiklTr00,    1.00,Notre Dame,NFC,ArizonaCardinals,Early,52,1.9812,122.4699399,4.84,81.28,27,289.56,7.57,4.55,31.20131271,offense,backs_receivers,TE,Yes,1
+2014,Deone Bucannon\BucaDe00,    1.00,Washington St.,NFC,ArizonaCardinals,Early,27,1.8542,95.70799007,4.49,92.71,19,317.5,6.96,4.26,27.83780846,defense,defensive_back,SS,Yes,1
+2014,Kareem Martin\MartKa00,    2.00,North Carolina,NFC,ArizonaCardinals,Middle,84,1.9812,123.3771246,4.72,90.17,22,327.66,7.2,4.33,31.43243354,defense,defensive_lineman,DE,Yes,1
+2014,Ra'Shede Hageman\HageRa00,    2.00,Minnesota,NFC,AtlantaFalcons,Early,37,1.9812,140.6136347,4.92,90.17,32,289.56,7.87,4.5,35.8237294,defense,defensive_lineman,DT,Yes,1
+2014,Prince Shembo\ShemPr00,    2.00,Notre Dame,NFC,AtlantaFalcons,Middle,139,1.8542,114.7588696,4.71,97.79,26,309.88,7.29,4.31,33.37898361,defense,line_backer,OLB,Yes,1
+2014,Jake Matthews\MattJa00,    2.00,Texas A&M,NFC,AtlantaFalcons,Early,6,1.9558,139.70645,5.07,77.47,24,266.7,7.34,4.47,36.52309505,offense,offensive_lineman,OT,Yes,1
+2014,Tyler Starr\StarTy00,    2.00,South Dakota,NFC,AtlantaFalcons,Late,255,1.9304,113.3980925,4.95,81.28,24,294.64,6.64,4.15,30.43064316,defense,line_backer,OLB,Yes,1
+2014,Lorenzo Taliaferro\TaliLo00,    2.00,Coastal Carolina,AFC,BaltimoreRavens,Middle,138,1.8288,103.8726527,4.58,83.82,18,299.72,6.88,4.22,31.05766469,offense,backs_receivers,RB,Yes,1
+2014,Michael Campanaro\CampMi02,    2.00,Wake Forest,AFC,BaltimoreRavens,Late,218,1.7526,87.08973504,4.46,99.06,20,309.88,6.77,4.01,28.35315255,offense,backs_receivers,WR,Yes,1
+2014,John Urschel\UrscJo00,    2.00,Penn St.,AFC,BaltimoreRavens,Middle,175,1.905,141.9744118,5.31,73.66,30,259.08,7.55,4.47,39.12191617,offense,offensive_lineman,OG,Yes,1
+2014,Preston Brown\BrowPr00,    1.00,Louisville,AFC,BuffaloBills,Middle,73,1.8542,113.8516849,4.86,83.82,23,294.64,6.98,4.26,33.11511813,defense,line_backer,ILB,Yes,1
+2014,Cyrus Kouandjio\KouaCy00,    1.00,Alabama,AFC,BuffaloBills,Early,44,2.0066,146.0567431,5.59,69.85,21,243.84,7.71,4.84,36.27437985,offense,offensive_lineman,OT,Yes,1
+2014,Sammy Watkins\WatkSa00,    1.00,Clemson,AFC,BuffaloBills,Early,4,1.8542,95.70799007,4.43,86.36,16,320.04,6.95,4.34,27.83780846,offense,backs_receivers,WR,Yes,1
+2014,Cyril Richardson\RichCy00,    2.00,Baylor,AFC,BuffaloBills,Middle,153,1.9558,149.2318897,5.36,64.77,25,231.14,7.7,4.83,39.01330607,offense,offensive_lineman,OG,Yes,1
+2014,Ross Cockrell\CockRo00,    2.00,Duke,AFC,BuffaloBills,Middle,109,1.8288,86.63614267,4.56,92.71,10,309.88,7.28,4.32,25.90399107,defense,defensive_back,CB,Yes,1
+2014,Bene' Benwikere\BenwBe00,    2.00,San Jose St.,NFC,CarolinaPanthers,Middle,148,1.8034,88.45051215,4.59,102.87,10,309.88,6.94,4.38,27.19670066,defense,defensive_back,CB,Yes,1
+2014,Kelvin Benjamin\BenjKe00,    2.00,Florida St.,NFC,CarolinaPanthers,Early,28,1.9558,108.8621688,4.61,82.55,13,302.26,7.33,4.39,28.45955458,offense,backs_receivers,WR,Yes,1
+2014,Tre Boston\BostTr00,    1.00,North Carolina,NFC,CarolinaPanthers,Middle,128,1.8288,92.53284348,4.58,88.9,18,294.64,7.04,4.31,27.66708994,defense,defensive_back,SS,Yes,1
+2014,Kony Ealy\EalyKo00,    2.00,Missouri,NFC,CarolinaPanthers,Early,60,1.9304,123.830717,4.92,78.74,22,289.56,6.83,4.45,33.23026233,defense,defensive_lineman,DE,Yes,1
+2014,Kyle Fuller\FullKy00,    2.00,Virginia Tech,NFC,ChicagoBears,Early,14,1.8288,86.1825503,4.49,97.79,12,325.12,6.9,4.19,25.76836808,defense,defensive_back,CB,Yes,1
+2014,Brock Vereen\VereBr00,    1.00,Minnesota,NFC,ChicagoBears,Middle,131,1.8288,90.26488163,4.47,86.36,25,297.18,6.9,4.07,26.98897499,defense,defensive_back,SS,Yes,1
+2014,Ka'Deem Carey\CareKa00,    1.00,Arizona,NFC,ChicagoBears,Middle,117,1.7526,93.89362059,4.69,82.55,19,292.1,7.08,4.38,30.56824259,offense,backs_receivers,RB,Yes,1
+2014,Charles Leno\LenoCh00,    2.00,Boise St.,NFC,ChicagoBears,Late,246,1.9304,137.4384881,5.25,73.66,21,274.32,7.57,4.4,36.88193951,offense,offensive_lineman,OG,Yes,1
+2014,Will Sutton\SuttWi00,    2.00,Arizona St.,NFC,ChicagoBears,Middle,82,1.8288,137.4384881,5.36,72.39,24,251.46,7.93,4.82,41.09376594,defense,defensive_lineman,DT,Yes,1
+2014,Russell Bodine\BodiRu00,    1.00,North Carolina,AFC,CincinnatiBengals,Middle,111,1.905,140.6136347,5.18,73.66,42,276.86,8.26,4.66,38.74694572,offense,offensive_lineman,OG,Yes,1
+2014,Will Clarke\ClarWi00,    2.00,West Virginia,AFC,CincinnatiBengals,Middle,88,1.9812,122.9235323,4.77,81.28,22,284.48,7.26,4.57,31.31687312,defense,defensive_lineman,DE,Yes,1
+2014,Lavelle Westbrooks\WestLa00,    2.00,Georgia Southern,AFC,CincinnatiBengals,Late,252,1.8034,84.36818082,4.63,91.44,15,307.34,6.98,4.27,25.94146832,defense,defensive_back,CB,Yes,1
+2014,Pierre Desir\DesiPi00,    2.00,Lindenwood,AFC,ClevelandBrowns,Middle,127,1.8542,89.81128926,4.59,88.9,11,337.82,6.86,4.3,26.12268282,defense,defensive_back,CB,Yes,1
+2014,Joel Bitonio\BitoJo00,    2.00,Nevada,AFC,ClevelandBrowns,Early,35,1.9304,136.9848957,4.92,81.28,22,289.56,7.37,4.44,36.76021694,offense,offensive_lineman,OG,Yes,1
+2014,Zack Martin\MartZa00,    2.00,Notre Dame,NFC,DallasCowboys,Early,16,1.9304,139.70645,5.22,71.12,29,269.24,7.65,4.59,37.49055238,offense,offensive_lineman,OG,Yes,1
+2014,Ahmad Dixon\DixoAh00,    2.00,Baylor,NFC,DallasCowboys,Late,248,1.8288,96.16158244,4.64,81.28,14,281.94,7.55,4.5,28.75207386,defense,defensive_back,SS,Yes,1
+2014,Anthony Hitchens\HitcAn00,    1.00,Iowa,NFC,DallasCowboys,Middle,119,1.8288,108.8621688,4.74,80.01,23,294.64,7.15,4.45,32.54951758,defense,line_backer,OLB,Yes,1
+2014,Demarcus Lawrence\LawrDe00,    1.00,Boise St.,NFC,DallasCowboys,Early,34,1.905,113.8516849,4.8,87.63,20,287.02,7.46,4.31,31.37252702,defense,defensive_lineman,DE,Yes,1
+2014,Lamin Barrow\BarrLa00,    2.00,LSU,AFC,DenverBroncos,Middle,156,1.8542,107.5013917,4.64,88.9,22,312.42,7.24,4.35,31.26805974,defense,line_backer,ILB,Yes,1
+2014,Matt Paradis\ParaMa00,    2.00,Boise St.,AFC,DenverBroncos,Late,207,1.905,138.7992652,5.34,66.04,23,261.62,7.6,4.46,38.24698513,offense,offensive_lineman,C,Yes,1
+2014,Travis Swanson\SwanTr00,    2.00,Arkansas,NFC,DetroitLions,Middle,76,1.9558,141.5208194,5.28,66.04,20,241.3,7.73,4.65,36.99742096,offense,offensive_lineman,C,Yes,1
+2014,Caraun Reid\ReidCa00,    2.00,Princeton,NFC,DetroitLions,Middle,158,1.8796,136.9848957,4.91,67.31,20,269.24,7.59,4.58,38.77410757,defense,defensive_lineman,DT,Yes,1
+2014,Kyle Van Noy\VanNKy00,    2.00,BYU,NFC,DetroitLions,Early,40,1.905,110.2229459,4.71,82.55,21,284.48,7.22,4.2,30.37260584,defense,line_backer,OLB,Yes,1
+2014,Larry Webster\WebsLa00,    2.00,Bloomsburg,NFC,DetroitLions,Middle,136,1.9812,114.3052772,4.58,92.71,17,312.42,7.29,4.44,29.12122519,offense,backs_receivers,TE,Yes,1
+2014,Nevin Lawson\LawsNe00,    2.00,Utah St.,NFC,DetroitLions,Middle,133,1.7526,86.1825503,4.48,83.82,16,304.8,7.12,4.4,28.05780721,defense,defensive_back,CB,Yes,1
+2014,Khyri Thornton\ThorKh00,    2.00,Southern Miss,NFC,GreenBayPackers,Middle,85,1.905,137.8920805,5.03,73.66,28,284.48,7.83,4.76,37.99700484,defense,defensive_lineman,DT,Yes,1
+2014,Richard Rodgers\RodgRi00,    2.00,California,NFC,GreenBayPackers,Middle,98,1.9304,116.5732391,4.87,80.01,16,294.64,7.23,4.47,31.28270117,offense,backs_receivers,TE,Yes,1
+2014,Jeff Janis\JaniJe00,    2.00,Saginaw Valley St.,NFC,GreenBayPackers,Late,236,1.905,99.33672903,4.42,95.25,20,312.42,6.64,3.98,27.3728423,offense,backs_receivers,WR,Yes,1
+2014,Demetri Goodson\GoodDe00,    2.00,Baylor,NFC,GreenBayPackers,Late,197,1.8034,87.99691978,4.52,93.98,11,312.42,6.8,4.34,27.0572304,defense,defensive_back,CB,Yes,1
+2014,Ha Ha Clinton-Dix\ClinHa00,    1.00,Alabama,NFC,GreenBayPackers,Early,21,1.8542,94.34721296,4.58,83.82,11,302.26,7.16,4.16,27.44201024,defense,defensive_back,FS,Yes,1
+2014,Carl Bradford\BradCa01,    1.00,Arizona St.,NFC,GreenBayPackers,Middle,121,1.8542,113.3980925,4.76,95.25,23,309.88,7.25,4.3,32.98318538,defense,line_backer,OLB,Yes,1
+2014,Davante Adams\AdamDa01,    1.00,Fresno St.,NFC,GreenBayPackers,Early,53,1.8542,96.16158244,4.56,100.33,14,312.42,6.82,4.3,27.96974121,offense,backs_receivers,WR,Yes,1
+2014,Jared Abbrederis\AbbrJa00,    2.00,Wisconsin,NFC,GreenBayPackers,Middle,176,1.8542,88.45051215,4.5,77.47,4,297.18,6.8,4.08,25.7268846,offense,backs_receivers,WR,Yes,1
+2014,Andre Hal\HalxAn00,    1.00,Vanderbilt,AFC,HoustonTexans,Late,216,1.778,85.27536556,4.5,90.17,15,302.26,7.14,4.27,26.97491448,defense,defensive_back,CB,Yes,1
+2014,C.J. Fiedorowicz\FiedC.00,    2.00,Iowa,AFC,HoustonTexans,Middle,65,1.9558,120.2019781,4.76,80.01,25,294.64,7.1,4.26,31.42409152,offense,backs_receivers,TE,Yes,1
+2014,Alfred Blue\BlueAl00,    2.00,LSU,AFC,HoustonTexans,Late,181,1.8796,101.1510985,4.63,81.28,13,307.34,7.15,4.5,28.63121188,offense,backs_receivers,RB,Yes,1
+2014,Xavier Su'a-Filo\Sua-Xa00,    2.00,UCLA,AFC,HoustonTexans,Early,33,1.9304,139.2528576,5.04,63.5,25,259.08,7.6,4.44,37.36882981,offense,offensive_lineman,OG,Yes,1
+2014,Jadeveon Clowney\ClowJa00,    1.00,South Carolina,AFC,HoustonTexans,Early,1,1.9558,120.6555704,4.53,95.25,21,314.96,7.27,4.43,31.542673,defense,defensive_lineman,DE,Yes,1
+2014,Jonathan Newsome\NewsJo00,    2.00,Ball St.,AFC,IndianapolisColts,Middle,166,1.905,112.0373154,4.73,86.36,21,297.18,7.31,4.63,30.87256643,defense,line_backer,OLB,Yes,1
+2014,Donte Moncrief\MoncDo00,    1.00,Mississippi,AFC,IndianapolisColts,Middle,90,1.8796,100.2439138,4.4,100.33,13,335.28,7.02,4.3,28.37442971,offense,backs_receivers,WR,Yes,1
+2014,Jack Mewhort\MewhJa00,    2.00,Ohio St.,AFC,IndianapolisColts,Early,59,1.9812,140.1600423,5.37,66.04,28,256.54,7.79,4.64,35.70816899,offense,offensive_lineman,OT,Yes,1
+2014,Chris Smith\SmitCh03,    2.00,Arkansas,AFC,JacksonvilleJaguars,Middle,159,1.8542,120.6555704,4.66,93.98,28,307.34,7.55,4.46,35.09410925,defense,line_backer,OLB,Yes,1
+2014,Zach Fulton\FultZa00,    2.00,Tennessee,AFC,KansasCityChiefs,Late,193,1.9558,143.3351889,5.16,62.23,25,248.92,7.87,5.16,37.47174687,offense,offensive_lineman,OG,Yes,1
+2014,Phillip Gaines\GainPh00,    2.00,Rice,AFC,KansasCityChiefs,Middle,87,1.8288,87.54332741,4.38,92.71,11,309.88,6.62,4.04,26.17523705,defense,defensive_back,CB,Yes,1
+2014,Ryan Carrethers\CarrRy00,    2.00,Arkansas St.,AFC,SanDiegoChargers,Middle,165,1.8542,152.8606287,5.47,66.04,32,223.52,7.89,4.6,44.4613339,defense,defensive_lineman,DT,Yes,1
+2014,Michael Sam\SamxMi00,    2.00,Missouri,NFC,St.LouisRams,Late,249,1.8796,118.3876086,4.91,64.77,17,289.56,7.8,4.7,33.5100731,defense,defensive_lineman,DE,Yes,1
+2014,Greg Robinson\RobiGr01,    1.00,Auburn,NFC,St.LouisRams,Early,2,1.9558,150.5926668,4.92,72.39,32,287.02,7.8,4.86,39.36905051,offense,offensive_lineman,OT,Yes,1
+2014,Lamarcus Joyner\JoynLa00,    2.00,Florida St.,NFC,St.LouisRams,Early,41,1.7272,83.46099608,4.55,95.25,14,314.96,7.26,4.4,27.97681718,defense,defensive_back,CB,Yes,1
+2014,Aaron Donald\DonaAa00,    2.00,Pittsburgh,NFC,St.LouisRams,Early,13,1.8542,129.2738255,4.68,81.28,35,294.64,7.11,4.39,37.60083134,defense,defensive_lineman,DT,Yes,1
+2014,Billy Turner\TurnBi00,    2.00,North Dakota St.,AFC,MiamiDolphins,Middle,67,1.9558,142.8815966,5.16,71.12,25,274.32,7.92,4.71,37.35316539,offense,offensive_lineman,OT,Yes,1
+2014,Matt Hazel\HazeMa01,    2.00,Coastal Carolina,AFC,MiamiDolphins,Late,190,1.8542,89.81128926,4.5,92.71,15,299.72,7.08,4.2,26.12268282,offense,backs_receivers,WR,Yes,1
+2014,Ja'Wuan James\JameJa01,    1.00,Tennessee,AFC,MiamiDolphins,Early,19,1.9812,141.0672271,5.26,73.66,22,261.62,7.42,4.56,35.93928982,offense,offensive_lineman,OT,Yes,1
+2014,Jordan Tripp\TripJo00,    2.00,Montana,AFC,MiamiDolphins,Middle,171,1.905,106.1406146,4.67,95.25,22,304.8,6.89,3.96,29.24769451,defense,line_backer,OLB,Yes,1
+2014,Arthur Lynch\LyncAr00,    2.00,Georgia,AFC,MiamiDolphins,Middle,155,1.9558,117.0268315,4.82,74.93,28,294.64,7.38,4.35,30.59402118,offense,backs_receivers,TE,Yes,1
+2014,Scott Crichton\CricSc00,    2.00,Oregon St.,NFC,MinnesotaVikings,Middle,72,1.905,123.830717,4.84,80.01,24,274.32,7.19,4.29,34.12231027,defense,defensive_lineman,DE,Yes,1
+2014,Antone Exum\ExumAn00,    2.00,Virginia Tech,NFC,MinnesotaVikings,Late,182,1.8288,96.61517481,4.59,88.9,17,297.18,7.05,4.13,28.88769685,defense,defensive_back,CB,Yes,1
+2014,Anthony Barr\BarrAn00,    1.00,UCLA,NFC,MinnesotaVikings,Early,9,1.9558,115.6660544,4.66,87.63,15,302.26,6.82,4.19,30.23827674,defense,line_backer,OLB,Yes,1
+2014,David Yankey\YankDa00,    2.00,Stanford,NFC,MinnesotaVikings,Middle,145,1.9812,142.8815966,5.48,72.39,22,261.62,7.81,4.86,36.40153149,offense,offensive_lineman,OG,Yes,1
+2014,Jerick McKinnon\McKiJe00,    1.00,Georgia Southern,NFC,MinnesotaVikings,Middle,96,1.7526,94.80080533,4.41,102.87,32,335.28,6.83,4.12,30.86358793,offense,backs_receivers,RB,Yes,1
+2014,Cameron Fleming\FlemCa00,    1.00,Stanford,AFC,NewEnglandPatriots,Middle,140,1.9558,146.5103355,5.28,59.69,26,246.38,8.24,5,38.30181721,offense,offensive_lineman,OT,Yes,1
+2014,James White\WhitJa02,    2.00,Wisconsin,AFC,NewEnglandPatriots,Middle,130,1.7526,92.53284348,4.57,81.28,23,289.56,7.05,4.2,30.12522459,offense,backs_receivers,RB,Yes,1
+2014,Zach Moore\MoorZa00,    2.00,Concordia (MN),AFC,NewEnglandPatriots,Late,198,1.9558,122.0163475,4.84,85.09,23,312.42,7.41,4.46,31.89841743,defense,defensive_lineman,DE,Yes,1
+2014,Brandin Cooks\CookBr00,    1.00,Oregon St.,NFC,NewOrleansSaints,Early,20,1.778,85.72895793,4.33,91.44,16,304.8,6.76,3.81,27.11839807,offense,backs_receivers,WR,Yes,1
+2014,Jay Bromley\BromJa00,    1.00,Syracuse,NFC,NewYorkGiants,Middle,74,1.905,138.7992652,5.06,85.09,26,269.24,7.92,4.78,38.24698513,defense,defensive_lineman,DT,Yes,1
+2014,Bennett Jackson\JackBe00,    2.00,Notre Dame,NFC,NewYorkGiants,Late,187,1.8288,88.45051215,4.51,96.52,13,325.12,6.75,4,26.44648303,defense,defensive_back,CB,Yes,1
+2014,Weston Richburg\RichWe00,    2.00,Colorado St.,NFC,NewYorkGiants,Early,43,1.905,135.1705263,5.1,64.77,25,269.24,7.93,4.63,37.24706395,offense,offensive_lineman,C,Yes,1
+2014,Devon Kennard\KennDe00,    2.00,USC,NFC,NewYorkGiants,Middle,174,1.905,112.9445001,4.7,76.2,23,287.02,7.25,4.32,31.12254673,defense,line_backer,OLB,Yes,1
+2014,Nat Berhe\BerhNa00,    2.00,San Diego St.,NFC,NewYorkGiants,Middle,152,1.778,87.54332741,4.71,90.17,15,297.18,7.08,4.22,27.69233242,defense,defensive_back,SS,Yes,1
+2014,Odell Beckham Jr.\BeckOd00,    1.00,LSU,NFC,NewYorkGiants,Early,12,1.8034,89.81128926,4.38,97.79,7,309.88,6.69,3.94,27.61511144,offense,backs_receivers,WR,Yes,1
+2014,Shaquelle Evans\EvanSh00,    2.00,UCLA,AFC,NewYorkJets,Middle,115,1.8542,96.61517481,4.51,87.63,13,309.88,7.07,4.21,28.10167395,offense,backs_receivers,WR,Yes,1
+2014,Brandon Dixon\DixoBr00,    2.00,Northwest Missouri State,AFC,NewYorkJets,Late,195,1.8034,92.07925111,4.41,82.55,17,297.18,7.15,4.27,28.31246274,defense,defensive_back,CB,Yes,1
+2014,Jace Amaro\AmarJa00,    1.00,Texas Tech,AFC,NewYorkJets,Early,49,1.9558,120.2019781,4.74,83.82,28,299.72,7.42,4.3,31.42409152,offense,backs_receivers,TE,Yes,1
+2014,Dakota Dozier\DoziDa00,    2.00,Furman,AFC,NewYorkJets,Middle,137,1.9304,141.9744118,5.42,60.96,23,256.54,8.14,4.89,38.09916524,offense,offensive_lineman,OG,Yes,1
+2014,I.K. Enemkpali\EnemIK00,    2.00,Louisiana Tech,AFC,NewYorkJets,Late,210,1.8542,118.3876086,4.86,86.36,28,284.48,7.67,4.65,34.43444554,defense,defensive_lineman,DE,Yes,1
+2014,Justin Ellis\ElliJu01,    2.00,Louisiana Tech,AFC,OaklandRaiders,Middle,107,1.8542,151.4998516,5.27,71.12,25,233.68,7.81,4.75,44.06553567,defense,defensive_lineman,DT,Yes,1
+2014,Jonathan Dowling\DowlJo00,    2.00,Western Kentucky,AFC,OaklandRaiders,Late,247,1.905,86.1825503,4.52,85.09,8,299.72,7.04,4.24,23.74812802,defense,defensive_back,FS,Yes,1
+2014,Gabe Jackson\JackGa00,    2.00,Mississippi St.,AFC,OaklandRaiders,Middle,81,1.905,152.4070363,5.34,73.66,30,274.32,8.25,4.78,41.99668956,offense,offensive_lineman,OG,Yes,1
+2014,Khalil Mack\MackKh00,    2.00,Buffalo,AFC,OaklandRaiders,Early,5,1.905,113.8516849,4.65,101.6,23,325.12,7.08,4.18,31.37252702,defense,line_backer,OLB,Yes,1
+2014,Jordan Matthews\MattJo00,    1.00,Vanderbilt,NFC,PhiladelphiaEagles,Early,42,1.905,96.16158244,4.46,90.17,21,304.8,6.95,4.18,26.49791127,offense,backs_receivers,WR,Yes,1
+2014,Marcus Smith\SmitMa03,    1.00,Louisville,NFC,PhiladelphiaEagles,Early,26,1.905,113.8516849,4.66,88.9,23,307.34,7.48,4.47,31.37252702,defense,defensive_lineman,DE,Yes,1
+2014,Dri Archer\ArchDr00,    2.00,Kent St.,AFC,PittsburghSteelers,Middle,97,1.7272,78.47148001,4.26,96.52,20,309.88,6.86,4.06,26.30429007,offense,backs_receivers,WR,Yes,1
+2014,Ryan Shazier\ShazRy00,    1.00,Ohio St.,AFC,PittsburghSteelers,Early,15,1.8542,107.5013917,4.58,106.68,25,330.2,6.91,4.21,31.26805974,defense,line_backer,OLB,Yes,1
+2014,Wesley Johnson\JohnWe00,    2.00,Vanderbilt,AFC,PittsburghSteelers,Middle,173,1.9558,134.7169339,5.11,73.66,26,281.94,7.4,4.64,35.2186988,offense,offensive_lineman,C,Yes,1
+2014,Martavis Bryant\BryaMa00,    2.00,Clemson,AFC,PittsburghSteelers,Middle,118,1.9304,95.70799007,4.42,99.06,16,314.96,7.18,4.15,25.68346283,offense,backs_receivers,WR,Yes,1
+2014,Bruce Ellington\ElliBr00,    2.00,South Carolina,NFC,SanFrancisco49ers,Middle,106,1.7526,89.35769689,4.45,100.33,15,304.8,6.69,3.95,29.0915159,offense,backs_receivers,WR,Yes,1
+2014,Brandon Thomas\ThomBr02,    2.00,Clemson,NFC,SanFrancisco49ers,Middle,100,1.905,143.7887813,5.09,73.66,35,248.92,8.13,4.83,39.62187676,offense,offensive_lineman,OG,Yes,1
+2014,Chris Borland\BorlCh00,    2.00,Wisconsin,NFC,SanFrancisco49ers,Middle,77,1.8034,112.4909078,4.83,78.74,27,289.56,7.18,4.27,34.58862443,defense,line_backer,ILB,Yes,1
+2014,Dontae Johnson\JohnDo02,    2.00,North Carolina St.,NFC,SanFrancisco49ers,Middle,129,1.8796,90.718474,4.41,97.79,12,314.96,6.82,4.24,25.67821693,defense,defensive_back,CB,Yes,1
+2014,Kevin Norwood\NorwKe00,    2.00,Alabama,NFC,SeattleSeahawks,Middle,123,1.8796,89.81128926,4.48,83.82,8,307.34,6.68,4.32,25.42143476,offense,backs_receivers,WR,Yes,1
+2014,Cassius Marsh\MarsCa00,    1.00,UCLA,NFC,SeattleSeahawks,Middle,108,1.9304,114.3052772,4.89,81.28,14,274.32,7.08,4.25,30.67408831,defense,defensive_lineman,DE,Yes,1
+2014,Justin Britt\BritJu00,    2.00,Missouri,NFC,SeattleSeahawks,Early,64,1.9812,147.4175203,5.19,69.85,23,254,8.14,4.69,37.55713567,offense,offensive_lineman,OT,Yes,1
+2014,Kevin Pierre-Louis\PierKe00,    2.00,Boston Col.,NFC,SeattleSeahawks,Middle,132,1.8288,105.2334298,4.51,99.06,28,325.12,6.92,4.02,31.46453366,defense,line_backer,OLB,Yes,1
+2014,Robert Herron\HerrRo00,    1.00,Wyoming,NFC,TampaBayBuccaneers,Late,185,1.7526,87.54332741,4.48,90.17,18,317.5,6.84,4.27,28.50082522,offense,backs_receivers,WR,Yes,1
+2014,Kadeem Edwards\EdwaKa00,    2.00,Tennessee St.,NFC,TampaBayBuccaneers,Middle,143,1.9304,141.9744118,5.25,68.58,26,251.46,7.95,4.82,38.09916524,offense,offensive_lineman,OG,Yes,1
+2014,Charles Sims\SimsCh00,    2.00,West Virginia,NFC,TampaBayBuccaneers,Middle,69,1.8288,97.06876718,4.48,95.25,17,320.04,7.16,4.3,29.02331984,offense,backs_receivers,RB,Yes,1
+2014,Avery Williamson\WillAv00,    1.00,Kentucky,AFC,TennesseeTitans,Middle,151,1.8542,111.583723,4.66,77.47,25,304.8,7.11,4.07,32.45545442,defense,line_backer,ILB,Yes,1
+2014,Taylor Lewan\LewaTa00,    2.00,Michigan,AFC,TennesseeTitans,Early,11,2.0066,140.1600423,4.87,77.47,29,297.18,7.39,4.49,34.80988625,offense,offensive_lineman,OT,Yes,1
+2014,Marqueston Huff\HuffMa00,    1.00,Wyoming,AFC,TennesseeTitans,Middle,122,1.8034,88.90410452,4.49,90.17,15,299.72,7.26,4.19,27.33617092,defense,defensive_back,FS,Yes,1
+2014,DaQuan Jones\JoneDa04,    2.00,Penn St.,AFC,TennesseeTitans,Middle,112,1.9304,146.0567431,5.35,69.85,25,256.54,7.73,4.78,39.19466839,defense,defensive_lineman,DT,Yes,1
+2014,Bishop Sankey\SankBi00,    1.00,Washington,AFC,TennesseeTitans,Early,54,1.7526,94.80080533,4.49,90.17,26,320.04,6.75,4,30.86358793,offense,backs_receivers,RB,Yes,1
+2014,Trent Murphy\MurpTr00,    2.00,Stanford,NFC,WashingtonRedskins,Early,47,1.9558,113.3980925,4.86,90.17,19,299.72,6.78,4.2,29.64536936,defense,defensive_lineman,DE,Yes,1
+2014,Ryan Grant\GranRy01,    2.00,Tulane,NFC,WashingtonRedskins,Middle,142,1.8288,90.26488163,4.64,90.17,8,302.26,6.68,4.11,26.98897499,offense,backs_receivers,WR,Yes,1
+2014,Bashaud Breeland\BreeBa00,    2.00,Clemson,NFC,WashingtonRedskins,Middle,102,1.8034,89.35769689,4.62,87.63,11,312.42,7.04,4.33,27.47564118,defense,defensive_back,CB,Yes,1
+2019,Keesean Johnson\JohnKe07,    2.00,Fresno St.,NFC,ArizonaCardinals,Late,174,1.8542,91.17206637,4.6,76.2,14,297.18,7.28,4.23,26.51848105,offense,backs_receivers,WR,Yes,1
+2019,Andy Isabella\IsabAn00,    2.00,Massachusetts,NFC,ArizonaCardinals,Early,62,1.7526,85.27536556,4.31,92.71,15,307.34,6.95,4.15,27.76246187,offense,backs_receivers,WR,Yes,1
+2019,Kaleb McGary\McGaKa00,    2.00,Washington,NFC,AtlantaFalcons,Early,31,2.0066,143.7887813,5.05,85.09,23,281.94,7.66,4.58,35.71111308,offense,offensive_lineman,OT,Yes,1
+2019,Qadree Ollison\OlliQa00,    2.00,Pittsburgh,NFC,AtlantaFalcons,Middle,152,1.8542,103.4190604,4.58,74.93,19,289.56,7.53,4.31,30.08066507,offense,backs_receivers,RB,Yes,1
+2019,Miles Boykin\BoykMi00,    2.00,Notre Dame,AFC,BaltimoreRavens,Middle,93,1.9304,99.7903214,4.42,110.49,12,355.6,6.77,4.07,26.77896598,offense,backs_receivers,WR,Yes,1
+2019,Devin Singletary\SingDe00,    1.00,Florida Atlantic,AFC,BuffaloBills,Middle,74,1.7018,92.07925111,4.66,88.9,15,297.18,7.32,4.4,31.79396852,offense,backs_receivers,RB,Yes,1
+2019,Cody Ford\FordCo00,    2.00,Oklahoma,AFC,BuffaloBills,Early,38,1.9304,149.2318897,5.21,72.39,19,264.16,8.27,4.87,40.0467264,offense,offensive_lineman,OT,Yes,1
+2019,Dennis Daley\DaleDe00,    2.00,South Carolina,NFC,CarolinaPanthers,Late,212,1.9558,143.7887813,5.23,67.31,20,261.62,7.95,4.92,37.59032834,offense,offensive_lineman,OT,Yes,1
+2019,Jordan Scarlett\ScarJo00,    2.00,Florida,NFC,CarolinaPanthers,Middle,154,1.8034,94.34721296,4.47,76.2,21,294.64,7.37,4.63,29.00981404,offense,backs_receivers,RB,Yes,1
+2019,Riley Ridley\RidlRi00,    2.00,Georgia,NFC,ChicagoBears,Middle,126,1.8542,90.26488163,4.58,77.47,13,314.96,7.22,4.28,26.25461557,offense,backs_receivers,WR,Yes,1
+2019,Michael Jordan\JordMi01,    1.00,Ohio St.,AFC,CincinnatiBengals,Middle,136,1.9812,141.5208194,5.27,82.55,19,294.64,7.71,4.71,36.05485024,offense,offensive_lineman,OT,Yes,1
+2019,Jonah Williams\WillJo10,    1.00,Alabama,AFC,CincinnatiBengals,Early,11,1.9304,136.9848957,5.12,71.12,23,254,8.01,4.79,36.76021694,offense,offensive_lineman,OT,Yes,1
+2019,Trayveon Williams\WillTr06,    1.00,Texas A&M,AFC,CincinnatiBengals,Late,182,1.7272,93.44002822,4.51,83.82,19,307.34,7.44,4.44,31.32187141,offense,backs_receivers,RB,Yes,1
+2019,Mike Jackson\JackMi01,    2.00,Miami (FL),NFC,DallasCowboys,Middle,158,1.8542,95.2543977,4.45,102.87,13,330.2,7.12,4.12,27.70587572,defense,defensive_back,CB,Yes,1
+2019,Dalton Risner\RisnDa00,    2.00,Kansas St.,AFC,DenverBroncos,Early,41,1.9558,141.5208194,5.3,72.39,23,279.4,7.69,4.52,36.99742096,offense,offensive_lineman,OT,Yes,1
+2019,Noah Fant\FantNo00,    1.00,Iowa,AFC,DenverBroncos,Early,20,1.9304,112.9445001,4.5,100.33,20,322.58,6.81,4.22,30.30892059,offense,backs_receivers,TE,Yes,1
+2019,Amani Oruwariye\OruwAm00,    2.00,Penn St.,NFC,DetroitLions,Middle,146,1.8796,92.98643585,4.47,92.71,17,304.8,6.82,4.16,26.32017236,defense,defensive_back,CB,Yes,1
+2019,T.J. Hockenson\HockTJ00,    1.00,Iowa,NFC,DetroitLions,Early,8,1.9558,113.8516849,4.7,95.25,17,312.42,7.02,4.18,29.76395083,offense,backs_receivers,TE,Yes,1
+2019,Will Harris\HarrWi02,    2.00,Boston Col.,NFC,DetroitLions,Middle,81,1.8542,93.89362059,4.41,92.71,20,312.42,6.91,4.12,27.3100775,defense,defensive_back,S,Yes,1
+2019,Dexter Williams\WillDe07,    2.00,Notre Dame,NFC,GreenBayPackers,Late,194,1.8034,96.16158244,4.57,91.44,17,330.2,7,4.16,29.56769508,offense,backs_receivers,RB,Yes,1
+2019,Jace Sternberger\SterJa00,    2.00,Texas A&M,NFC,GreenBayPackers,Middle,75,1.9304,113.8516849,4.75,80.01,17,287.02,7.19,4.31,30.55236574,offense,backs_receivers,TE,Yes,1
+2019,Darnell Savage\SavaDa00,    1.00,Maryland,NFC,GreenBayPackers,Early,21,1.8034,89.81128926,4.36,100.33,11,320.04,7.03,4.14,27.61511144,defense,defensive_back,S,Yes,1
+2019,Kahale Warring\WarrKa00,    1.00,San Diego St.,AFC,HoustonTexans,Middle,86,1.9558,114.3052772,4.67,92.71,19,309.88,7.21,4.25,29.88253231,offense,backs_receivers,TE,Yes,1
+2019,Lonnie Johnson\JohnLo01,    1.00,Kentucky,AFC,HoustonTexans,Early,54,1.8796,96.61517481,4.52,96.52,15,327.66,7.01,4.1,27.34730103,defense,defensive_back,CB,Yes,1
+2019,Jackson Barton\BartJa00,    2.00,Utah,AFC,IndianapolisColts,Late,240,2.0066,140.6136347,5.18,68.58,25,276.86,7.85,4.66,34.92253961,offense,offensive_lineman,OT,Yes,1
+2019,Rock Ya-Sin\Ya-SRo00,    2.00,Temple,AFC,IndianapolisColts,Early,34,1.8288,87.08973504,4.51,100.33,18,304.8,7.31,4.31,26.03961406,defense,defensive_back,CB,Yes,1
+2019,Josh Oliver\OlivJo00,    1.00,San Jose St.,AFC,JacksonvilleJaguars,Middle,69,1.9558,112.9445001,4.63,86.36,22,297.18,7.21,4.47,29.52678788,offense,backs_receivers,TE,Yes,1
+2019,Ryquell Armstead\ArmsRy00,    2.00,Temple,AFC,JacksonvilleJaguars,Middle,140,1.8034,99.7903214,4.45,76.2,22,289.56,7.02,4.29,30.68345716,offense,backs_receivers,RB,Yes,1
+2019,Isaiah Prince\PrinIs00,    1.00,Ohio St.,AFC,MiamiDolphins,Late,202,1.9812,138.3456729,5.09,68.58,23,292.1,7.9,5.02,35.24592732,offense,offensive_lineman,OT,Yes,1
+2019,Myles Gaskin\GaskMy00,    2.00,Washington,AFC,MiamiDolphins,Late,234,1.7526,92.98643585,4.58,90.17,24,299.72,7.19,4.27,30.27289725,offense,backs_receivers,RB,Yes,1
+2019,Alexander Mattison\MattAl01,    1.00,Boise St.,NFC,MinnesotaVikings,Middle,102,1.8034,100.2439138,4.67,88.9,22,322.58,7.13,4.29,30.82292742,offense,backs_receivers,RB,Yes,1
+2019,Kris Boyd\BoydKr00,    2.00,Texas,NFC,MinnesotaVikings,Late,217,1.8034,91.17206637,4.45,92.71,19,322.58,6.94,4.08,28.03352222,defense,defensive_back,CB,Yes,1
+2019,Irv Smith\SmitIr01,    1.00,Alabama,NFC,MinnesotaVikings,Early,50,1.8796,109.7693535,4.63,82.55,19,279.4,7.32,4.33,31.07064249,offense,backs_receivers,TE,Yes,1
+2019,Bisi Johnson\JohnOl00,    1.00,Colorado St.,NFC,MinnesotaVikings,Late,247,1.8288,92.53284348,4.51,96.52,14,314.96,6.88,4.16,27.66708994,offense,backs_receivers,WR,Yes,1
+2019,Dru Samia\SamiDr00,    1.00,Oklahoma,NFC,MinnesotaVikings,Middle,114,1.9558,138.3456729,5.29,69.85,28,256.54,7.89,4.7,36.16735061,offense,offensive_lineman,OT,Yes,1
+2019,Ken Webster\WebsKe00,    2.00,Mississippi,AFC,NewEnglandPatriots,Late,252,1.8034,92.07925111,4.43,109.22,18,337.82,6.85,4.14,28.31246274,defense,defensive_back,CB,Yes,1
+2019,Alize Mack\MackAl00,    1.00,Notre Dame,NFC,NewOrleansSaints,Late,231,1.9304,112.9445001,4.7,91.44,22,304.8,7.27,4.34,30.30892059,offense,backs_receivers,TE,Yes,1
+2019,Darius Slayton\SlayDa01,    2.00,Auburn,NFC,NewYorkGiants,Middle,171,1.8542,86.1825503,4.39,102.87,11,342.9,7,4.15,25.06722089,offense,backs_receivers,WR,Yes,1
+2019,Julian Love\LoveJu00,    1.00,Notre Dame,NFC,NewYorkGiants,Middle,108,1.8034,88.45051215,4.54,91.44,14,307.34,6.72,4.1,27.19670066,defense,defensive_back,CB,Yes,1
+2019,Trevon Wesco\WescTr00,    2.00,West Virginia,AFC,NewYorkJets,Middle,121,1.905,121.1091628,4.89,78.74,24,297.18,7.18,4.38,33.37236938,offense,backs_receivers,TE,Yes,1
+2019,Hunter Renfrow\RenfHu00,    2.00,Clemson,AFC,OaklandRaiders,Middle,149,1.778,83.46099608,4.59,88.9,7,294.64,6.8,4.19,26.40098013,offense,backs_receivers,WR,Yes,1
+2019,Foster Moreau\MoreFo00,    1.00,LSU,AFC,OaklandRaiders,Middle,137,1.9304,114.7588696,4.66,92.71,22,307.34,7.16,4.11,30.79581088,offense,backs_receivers,TE,Yes,1
+2019,Miles Sanders\SandMi01,    1.00,Penn St.,NFC,PhiladelphiaEagles,Early,53,1.8034,95.70799007,4.49,91.44,20,314.96,6.89,4.19,29.42822482,offense,backs_receivers,RB,Yes,1
+2019,Andre Dillard\DillAn00,    2.00,Washington St.,NFC,PhiladelphiaEagles,Early,22,1.9558,142.8815966,4.96,73.66,24,299.72,7.44,4.4,37.35316539,offense,offensive_lineman,OT,Yes,1
+2019,Diontae Johnson\JohnDi01,    2.00,Toledo,AFC,PittsburghSteelers,Middle,66,1.778,83.00740371,4.53,85.09,15,312.42,7.09,4.45,26.25749655,offense,backs_receivers,WR,Yes,1
+2019,Zach Gentry\GentZa00,    2.00,Michigan,AFC,PittsburghSteelers,Middle,141,2.032,120.2019781,4.9,74.93,12,279.4,7.4,4.53,29.11147478,offense,backs_receivers,TE,Yes,1
+2019,Deebo Samuel\SamuDe00,    2.00,South Carolina,NFC,SanFrancisco49ers,Early,36,1.8034,97.06876718,4.48,99.06,15,309.88,7.03,4.14,29.8466356,offense,backs_receivers,WR,Yes,1
+2019,Kaden Smith\SmitKa00,    1.00,Stanford,NFC,SanFrancisco49ers,Late,176,1.9558,115.6660544,4.92,81.28,15,274.32,7.08,4.47,30.23827674,offense,backs_receivers,TE,Yes,1
+2019,D.K. Metcalf\MetcDK00,    1.00,Mississippi,NFC,SeattleSeahawks,Early,64,1.905,103.4190604,4.33,102.87,27,340.36,7.38,4.5,28.49775363,offense,backs_receivers,WR,Yes,1
+2019,Gary Jennings\JennGa00,    1.00,West Virginia,NFC,SeattleSeahawks,Middle,120,1.8542,97.06876718,4.42,93.98,20,322.58,7.32,4.15,28.23360669,offense,backs_receivers,WR,Yes,1
+2019,Travis Homer\HomeTr00,    1.00,Miami (FL),NFC,SeattleSeahawks,Late,204,1.778,91.17206637,4.48,100.33,17,330.2,7.07,4.31,28.84020112,offense,backs_receivers,RB,Yes,1
+2019,Jamel Dean\DeanJa00,    2.00,Auburn,NFC,TampaBayBuccaneers,Middle,94,1.8542,93.44002822,4.3,104.14,16,330.2,7.02,4.19,27.17814476,defense,defensive_back,CB,Yes,1
+2019,Amani Hooker\HookAm00,    1.00,Iowa,AFC,TennesseeTitans,Middle,116,1.8034,95.2543977,4.48,93.98,14,312.42,6.81,4.1,29.28875456,defense,defensive_back,S,Yes,1
+2019,Terry McLaurin\McLaTe00,    2.00,Ohio St.,NFC,WashingtonRedskins,Middle,76,1.8288,94.34721296,4.35,95.25,18,317.5,7.01,4.15,28.2095819,offense,backs_receivers,WR,Yes,1
+2019,Kelvin Harmon\HarmKe00,    2.00,North Carolina St.,NFC,WashingtonRedskins,Late,206,1.8796,100.2439138,4.6,82.55,18,297.18,7.15,4.32,28.37442971,offense,backs_receivers,WR,Yes,1
